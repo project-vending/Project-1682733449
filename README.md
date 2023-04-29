@@ -1,0 +1,1 @@
+#  Real-time data ingestion and processing: Build a data pipeline that ingests data from various sources (e.g. APIs, databases, file systems) in real-time using Streamlit and Fast API. Use Docker containers to isolate and manage each component of the pipeline. Finally, deploy the pipeline on AWS using EC2 or Lambda.
